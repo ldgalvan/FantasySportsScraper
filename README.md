@@ -15,4 +15,4 @@ combining data frames for desired information
 =============================
 combine_player_stat_roster.py
 
-
+dfqb will contain player's name, stats by week (2010-2019), and a 1 or 0 in the last column indicating whether they had home field advantage.
